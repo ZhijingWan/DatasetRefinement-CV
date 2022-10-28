@@ -26,11 +26,11 @@ This repo is a collection of resources on data optimization for computer vision 
 
 <details><summary>Table of Contents</summary><p>
 
-- [News](https://github.com/Vivian-wzj/DataOptimization-CV/edit/main/README.md#news)
-- [Data Optimization for Robust Learning](https://github.com/Vivian-wzj/DataOptimization-CV/edit/main/README.md#data-optimization-for-robust-learning)
-- [Data Optimization for Fair Learning](https://github.com/Vivian-wzj/DataOptimization-CV/edit/main/README.md#data-optimization-for-data-efficient-learning)
-- [Data Optimization for Data-efficient Learning](https://github.com/Vivian-wzj/DataOptimization-CV/edit/main/README.md#data-optimization-for-label-efficient-learning)
-- [Data Optimization for Label-efficient Learning](https://github.com/Vivian-wzj/DataOptimization-CV/edit/main/README.md#data-optimization-for-label-efficient-learning)
+- [News](#news)
+- [Data Optimization for Robust Learning](#data-optimization-for-robust-learning)
+- [Data Optimization for Fair Learning](#data-optimization-for-data-efficient-learning)
+- [Data Optimization for Data-efficient Learning](#data-optimization-for-label-efficient-learning)
+- [Data Optimization for Label-efficient Learning](#data-optimization-for-label-efficient-learning)
 
 </p></details><p></p>
 
@@ -196,7 +196,7 @@ Arxiv 2017. [[PDF](https://arxiv.org/pdf/1705.01936.pdf)] [[Github](https://gith
 *Yazhou Yao, Xian-sheng Hua, [Fumin Shen](https://cfm.uestc.edu.cn/~fshen/), [Jian Zhang](https://profiles.uts.edu.au/Jian.Zhang), Zhenmin Tang.*<br>
 ACM MM 2016. [[PDF](https://kd.nsfc.gov.cn/paperDownload/ZD4242585.pdf)]
 
-<p width="100%" align="right"><a href="https://github.com/Vivian-wzj/DataOptimization-CV/edit/main/README.md#dataoptimization-cv">🔝</a></p>
+<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
 
 # Data Optimization for Fair Learning
 
@@ -220,4 +220,4 @@ If you find this repo or our paper is helpful for your research, please consider
   year={2022}
 }
 ```
-<p width="100%" align="right"><a href="https://github.com/Vivian-wzj/DataOptimization-CV/edit/main/README.md#dataoptimization-cv">🔝</a></p>
+<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
