@@ -2,7 +2,7 @@
 
 <br />
 <p align="left">
-    <a href='https://arxiv.org/abs/2210.11717'>
+    <a href='https://arxiv.org/pdf/2210.11717.pdf'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
     <a href='https://github.com/Vivian-wzj/DataOptimization-CV' style='padding-left: 0.5rem;'>
