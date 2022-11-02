@@ -214,6 +214,8 @@ CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPA
 *Yingwei Li, [Yi Li](http://www.svcl.ucsd.edu/people/yili/), [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).*<br>
 ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yingwei_Li_RESOUND_Towards_Action_ECCV_2018_paper.pdf)]
 
+<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
+
 # Data Optimization for Data-efficient Learning
 
 ### Data Sampling
@@ -248,7 +250,41 @@ Arxiv 2014. [[PDF](https://arxiv.org/pdf/1405.3080.pdf)]
 
 ### Subset Selection
 
-Coming soon!
+**Grad-match: Gradient matching based data subset selection for efficient deep model training.**<br>
+*[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), Durga S, [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [Abir De](https://people.mpi-sws.org/~ade/index.html), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
+ICML 2021. [[PDF](http://proceedings.mlr.press/v139/killamsetty21a/killamsetty21a.pdf)] [[Github](https://github.com/decile-team/cords)] [[Project](https://cords.readthedocs.io/en/latest/strategies/cords.selection_strategies.SL.html#module-cords.selectionstrategies.SL.gradmatchstrategy)]
+
+**Selection via proxy: Efficient data selection for deep learning.**<br>
+*[Cody Coleman](https://www.codycoleman.com/), [Christopher Yeh](https://chrisyeh96.github.io/), [Stephen Mussmann](https://stephen.mussmann.xyz/), [Baharan Mirzasoleiman](http://web.cs.ucla.edu/~baharan/), [Peter Bailis](http://www.bailis.org/), [Percy Liang](https://cs.stanford.edu/~pliang/), [Jure Leskovec](https://cs.stanford.edu/~jure/), [Matei Zaharia](https://cs.stanford.edu/~matei/).*<br>
+ICLR 2020. [[PDF](https://openreview.net/pdf?id=HJg2b0VYDr)] [[Github](https://github.com/stanford-futuredata/selection-via-proxy)]
+
+**Coresets via bilevel optimization for continual learning and streaming.**<br>
+*Zalán Borsos, Mojmir Mutny, Andreas Krause.*<br>
+NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf)] [[Github](https://github.com/zalanborsos/bilevel_coresets)]
+
+**Data shapley: Equitable valuation of data for machine learning.**<br>
+*[Amirata Ghorbani](https://www.amiratag.com/), [James Zou](https://www.james-zou.com/).*<br>
+ICML 2019. [[PDF](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf)] [[Github](https://github.com/amiratag/DataShapley)]
+
+**Gradient based sample selection for online continual learning.**<br>
+*[Rahaf Aljundi](http://rahafaljundi.com/), [Min Lin](https://linmin.me/), Baptiste Goujaud, [Yoshua Bengio](https://yoshuabengio.org/).*<br>
+NeurIPS 2019. [[PDF](https://proceedings.neurips.cc/paper/2019/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf)] [[Github](https://github.com/rahafaljundi/Gradient-based-Sample-Selection)]
+
+**Semantic Redundancies in Image-Classification Datasets: The 10% You Don't Need.**<br>
+*[Vighnesh Birodkar](http://vighneshbirodkar.github.io/), [Hossein Mobahi](http://people.csail.mit.edu/hmobahi/), [Samy Bengio](https://bengio.abracadoudou.com/).*<br>
+Arxiv 2019. [[PDF](https://arxiv.org/pdf/1901.11409.pdf)]
+
+**Selective experience replay for lifelong learning.**<br>
+*David Isele, Akansel Cosgun.*<br>
+AAAI 2018. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11595/11454)]
+
+**Learning what data to learn.**<br>
+*[Yang Fan](https://fyabc.github.io/), [Fei Tian](https://ustctf.github.io/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/?from=http%3A%2F%2Fresearch.microsoft.com%2F%7Etaoqin), [Jiang Bian](https://sites.google.com/view/jiangbian), [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Ftyliu).*<br>
+Arxiv 2017. [[PDF](https://arxiv.org/pdf/1702.08635.pdf)]
+
+**Coresets for nonparametric estimation-the case of DP-means.**<br>
+*[Olivier Bachem](http://olivierbachem.ch/), [Mario Lucic](https://lucic.ai/), [Andreas Krause](https://las.inf.ethz.ch/krausea).*<br>
+ICML 2015. [[PDF](http://proceedings.mlr.press/v37/bachem15.pdf)]
 
 # Data Optimization for Label-efficient Learning
 
