@@ -200,9 +200,53 @@ ACM MM 2016. [[PDF](https://kd.nsfc.gov.cn/paperDownload/ZD4242585.pdf)]
 
 # Data Optimization for Fair Learning
 
-Coming soon!
+### Subset Selection
+
+**Adversarial filters of dataset biases.**<br>
+*[Ronan Le Bras](https://allenai.org/team/ronanl), [Swabha Swayamdipta](https://swabhs.com/), [Chandra Bhagavatula](https://www.chandrab.page/), [Rowan Zellers](http://rowanzellers.com/), Matthew Peters, [Ashish Sabharwal](http://ashishs.people.allenai.org/), [Yejin Choi](https://homes.cs.washington.edu/~yejin/).*<br>
+ICML 2020. [[PDF](http://proceedings.mlr.press/v119/bras20a/bras20a.pdf)] [[Github](https://github.com/swabhs/notebooks_for_aflite)]
+
+**Repair: Removing representation bias by dataset resampling.**<br>
+*[Yi Li](http://www.svcl.ucsd.edu/people/yili/), [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).*<br>
+CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPAIR_Removing_Representation_Bias_by_Dataset_Resampling_CVPR_2019_paper.pdf)] [[Github](https://github.com/JerryYLi/Dataset-REPAIR/)]
+
+**Resound: Towards action recognition without representation bias.**<br>
+*Yingwei Li, [Yi Li](http://www.svcl.ucsd.edu/people/yili/), [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).*<br>
+ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yingwei_Li_RESOUND_Towards_Action_ECCV_2018_paper.pdf)]
 
 # Data Optimization for Data-efficient Learning
+
+### Data Sampling
+
+**Variance reduced training with stratified sampling for forecasting models.**<br>
+*[Yucheng Lu](http://www.cs.cornell.edu/~yucheng/), [Youngsuk Park](https://youngsuk0723.github.io/), Lifan Chen, Yuyang Wang, Christopher De Sa, Dean Foster.*<br>
+ICML 2021. [[PDF](http://proceedings.mlr.press/v139/lu21d/lu21d.pdf)]
+
+**Curriculum learning by dynamic instance hardness.**<br>
+*[Tianyi Zhou](https://tianyizhou.github.io/), [Shengjie Wang](https://wsjloomise.github.io/), [Jeffrey Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html).*<br>
+NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/62000dee5a05a6a71de3a6127a68778a-Paper.pdf)] [[Github](https://github.com/tianyizhou/DIHCL)]
+
+**Ordered sgd: A new stochastic optimization framework for empirical risk minimization.**<br>
+*[Kenji Kawaguchi](https://ml.comp.nus.edu.sg/), [Haihao Lu](https://faculty.chicagobooth.edu/haihao-lu).*<br>
+AISTATS 2020. [[PDF](http://proceedings.mlr.press/v108/kawaguchi20a/kawaguchi20a.pdf)]
+
+**Accelerating Minibatch Stochastic Gradient Descent Using Typicality Sampling.**<br>
+*Xinyu Peng, Li Li, [Fei-Yue Wang](http://www.compsys.ia.ac.cn/people/wangfeiyue.html).*<br>
+TNNLS 2019. [[PDF](https://sci-hub.se/10.1109/tnnls.2019.2957003)]
+
+**Accelerating deep learning by focusing on the biggest losers.**<br>
+*Angela H. Jiang, [Daniel Lin-Kit Wong](https://wonglkd.fi-de.net/), Giulio Zhou, [David G. Andersen](http://www.cs.cmu.edu/~dga/), Jeffrey Dean, Gregory R. Ganger, Gauri Joshi, Michael Kaminksy, Michael Kozuch, Zachary C. Lipton, Padmanabhan Pillai.*<br>
+Arxiv 2019. [[PDF](https://arxiv.org/pdf/1910.00762.pdf)]
+
+**Variance reduction in sgd by distributed importance sampling.**<br>
+*Guillaume Alain, Alex Lamb, [Chinnadhurai Sankar](https://chinnadhurai.github.io/), [Aaron Courville](https://aaroncourville.wordpress.com/), [Yoshua Bengio](https://yoshuabengio.org/).*<br>
+Arxiv 2015. [[PDF](https://arxiv.org/pdf/1511.06481.pdf)]
+
+**Accelerating minibatch stochastic gradient descent using stratified sampling.**<br>
+*[Peilin Zhao](https://peilinzhao.github.io/), [Tong Zhang](http://tongzhang-ml.org/).*<br>
+Arxiv 2014. [[PDF](https://arxiv.org/pdf/1405.3080.pdf)]
+
+### Subset Selection
 
 Coming soon!
 
