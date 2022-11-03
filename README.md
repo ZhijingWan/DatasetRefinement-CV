@@ -250,9 +250,37 @@ Arxiv 2014. [[PDF](https://arxiv.org/pdf/1405.3080.pdf)]
 
 ### Subset Selection
 
+**Adaptive second order coresets for data-efficient machine learning.**<br>
+*Omead Pooladzandi, David Davini, [Baharan Mirzasoleiman](http://web.cs.ucla.edu/~baharan/).*<br>
+ICML 2022. [[PDF](https://proceedings.mlr.press/v162/pooladzandi22a/pooladzandi22a.pdf)] [[Github](https://github.com/opooladz/AdaCore)]
+
+**Online coreset selection for rehearsal-based continual learning.**<br>
+*[Jaehong Yoon](https://jaehong31.github.io/), [Divyam Madaan](https://dmadaan.com/), Eunho Yang, [Sung Ju Hwang](http://www.sungjuhwang.com/index.php/sample-page/).*<br>
+ICLR 2022. [[PDF](https://arxiv.org/pdf/2106.01085.pdf)]
+
+**AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning.**<br>
+*[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, [Lucian Popa](https://researcher.watson.ibm.com/researcher/view.php?person=us-lpopa), [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
+Arxiv 2022. [[PDF](https://arxiv.org/pdf/2203.08212.pdf)] [[Github](https://github.com/decile-team/cords)]
+
+**Glister: Generalization based data subset selection for efficient and robust learning.**<br>
+*[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), Durga Sivasubramanian, [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
+AAAI 2021. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16988/16795)] [[Github](https://github.com/dssresearch/GLISTER)] [[Project](https://cords.readthedocs.io/en/latest/strategies/cords.selection_strategies.SL.html#module-cords.selectionstrategies.SL.glisterstrategy)]
+
 **Grad-match: Gradient matching based data subset selection for efficient deep model training.**<br>
-*[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), Durga S, [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [Abir De](https://people.mpi-sws.org/~ade/index.html), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
+*[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), Durga Sivasubramanian, [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [Abir De](https://people.mpi-sws.org/~ade/index.html), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
 ICML 2021. [[PDF](http://proceedings.mlr.press/v139/killamsetty21a/killamsetty21a.pdf)] [[Github](https://github.com/decile-team/cords)] [[Project](https://cords.readthedocs.io/en/latest/strategies/cords.selection_strategies.SL.html#module-cords.selectionstrategies.SL.gradmatchstrategy)]
+
+**Retrieve: Coreset selection for efficient and robust semi-supervised learning.**<br>
+*[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), [Xujiang Zhao](https://zxj32.github.io/), [Feng Chen](https://personal.utdallas.edu/~fxc190007/), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
+NeurIPS 2021. [[PDF](https://proceedings.neurips.cc/paper/2021/file/793bc52a941b3951dfdb85fb04f9fd06-Paper.pdf)] [[Github](https://github.com/decile-team/cords)] [[Project](https://cords.readthedocs.io/en/latest/strategies/cords.selection_strategies.SSL.html#module-cords.selectionstrategies.SSL.retrievestrategy)]
+
+**Deep learning on a data diet: Finding important examples early in training.**<br>
+*Mansheej Paul, [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), Gintare Karolina Dziugaite.*<br>
+NeurIPS 2021. [[PDF](https://proceedings.neurips.cc/paper/2021/file/ac56f8fe9eea3e4a365f29f0f1957c55-Paper.pdf)]
+
+**Coresets for data-efficient training of machine learning models.**<br>
+*[Baharan Mirzasoleiman](http://web.cs.ucla.edu/~baharan/), [Jeff Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html), [Jure Leskovec](https://cs.stanford.edu/~jure/).*<br>
+ICML 2020. [[PDF](http://proceedings.mlr.press/v119/mirzasoleiman20a/mirzasoleiman20a.pdf)]
 
 **Selection via proxy: Efficient data selection for deep learning.**<br>
 *[Cody Coleman](https://www.codycoleman.com/), [Christopher Yeh](https://chrisyeh96.github.io/), [Stephen Mussmann](https://stephen.mussmann.xyz/), [Baharan Mirzasoleiman](http://web.cs.ucla.edu/~baharan/), [Peter Bailis](http://www.bailis.org/), [Percy Liang](https://cs.stanford.edu/~pliang/), [Jure Leskovec](https://cs.stanford.edu/~jure/), [Matei Zaharia](https://cs.stanford.edu/~matei/).*<br>
@@ -262,13 +290,25 @@ ICLR 2020. [[PDF](https://openreview.net/pdf?id=HJg2b0VYDr)] [[Github](https://g
 *Zalán Borsos, Mojmir Mutny, Andreas Krause.*<br>
 NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/aa2a77371374094fe9e0bc1de3f94ed9-Paper.pdf)] [[Github](https://github.com/zalanborsos/bilevel_coresets)]
 
+**Coresets for robust training of deep neural networks against noisy labels.**<br>
+*[Baharan Mirzasoleiman](http://web.cs.ucla.edu/~baharan/), [Kaidi Cao](https://ai.stanford.edu/~kaidicao/), [Jure Leskovec](https://cs.stanford.edu/~jure/).*<br>
+NeurIPS 2020. [[PDF](https://proceedings.neurips.cc/paper/2020/file/8493eeaccb772c0878f99d60a0bd2bb3-Paper.pdf)] [[Github](https://github.com/snap-stanford/crust)]
+
 **Data shapley: Equitable valuation of data for machine learning.**<br>
 *[Amirata Ghorbani](https://www.amiratag.com/), [James Zou](https://www.james-zou.com/).*<br>
 ICML 2019. [[PDF](http://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf)] [[Github](https://github.com/amiratag/DataShapley)]
 
+**An empirical study of example forgetting during deep neural network learning.**<br>
+*[Mariya Toneva](http://mtoneva.com/), Alessandro Sordoni, Remi Tachet des Combes, [Adam Trischler](https://www.microsoft.com/en-us/research/people/adtrisch/), [Yoshua Bengio](https://yoshuabengio.org/), Geoffrey J. Gordon.*<br>
+ICLR 2019. [[PDF](https://arxiv.org/pdf/1812.05159.pdf)] [[Github](https://github.com/mtoneva/example_forgetting)]
+
 **Gradient based sample selection for online continual learning.**<br>
 *[Rahaf Aljundi](http://rahafaljundi.com/), [Min Lin](https://linmin.me/), Baptiste Goujaud, [Yoshua Bengio](https://yoshuabengio.org/).*<br>
 NeurIPS 2019. [[PDF](https://proceedings.neurips.cc/paper/2019/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf)] [[Github](https://github.com/rahafaljundi/Gradient-based-Sample-Selection)]
+
+**E2-train: Training state-of-the-art cnns with over 80% energy savings.**<br>
+*Yue Wang, [Ziyu Jiang](https://geekjzy.github.io/), [Xiaohan Chen](http://xiaohanchen.com/), [Pengfei Xu](https://sites.google.com/view/pengfei-xu/home), [Yang Zhao](https://www.yangkatiezhao.net/), Yingyan Lin, [Zhangyang Wang](https://vita-group.github.io/).*<br>
+NeurIPS 2019. [[PDF](https://proceedings.neurips.cc/paper/2019/file/663772ea088360f95bac3dc7ffb841be-Paper.pdf)] [[Project](https://rtml.eiclab.net/code/)]
 
 **Semantic Redundancies in Image-Classification Datasets: The 10% You Don't Need.**<br>
 *[Vighnesh Birodkar](http://vighneshbirodkar.github.io/), [Hossein Mobahi](http://people.csail.mit.edu/hmobahi/), [Samy Bengio](https://bengio.abracadoudou.com/).*<br>
@@ -281,6 +321,10 @@ AAAI 2018. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11595/11454)]
 **Learning what data to learn.**<br>
 *[Yang Fan](https://fyabc.github.io/), [Fei Tian](https://ustctf.github.io/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/?from=http%3A%2F%2Fresearch.microsoft.com%2F%7Etaoqin), [Jiang Bian](https://sites.google.com/view/jiangbian), [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Ftyliu).*<br>
 Arxiv 2017. [[PDF](https://arxiv.org/pdf/1702.08635.pdf)]
+
+**Training region-based object detectors with online hard example mining.**<br>
+*[Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/), [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg), [Ross Girshick](http://www.rossgirshick.info/).*<br>
+CVPR 2016. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf)]
 
 **Coresets for nonparametric estimation-the case of DP-means.**<br>
 *[Olivier Bachem](http://olivierbachem.ch/), [Mario Lucic](https://lucic.ai/), [Andreas Krause](https://las.inf.ethz.ch/krausea).*<br>
