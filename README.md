@@ -31,6 +31,7 @@ This repo is a collection of resources on data optimization for computer vision 
 - [Data Optimization for Fair Learning](#data-optimization-for-data-efficient-learning)
 - [Data Optimization for Data-efficient Learning](#data-optimization-for-label-efficient-learning)
 - [Data Optimization for Label-efficient Learning](#data-optimization-for-label-efficient-learning)
+- [Related Search](#related-search)
 
 </p></details><p></p>
 
@@ -330,6 +331,8 @@ CVPR 2016. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/pap
 *[Olivier Bachem](http://olivierbachem.ch/), [Mario Lucic](https://lucic.ai/), [Andreas Krause](https://las.inf.ethz.ch/krausea).*<br>
 ICML 2015. [[PDF](http://proceedings.mlr.press/v37/bachem15.pdf)]
 
+<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
+
 # Data Optimization for Label-efficient Learning
 
 ### Active Learning
@@ -378,6 +381,10 @@ ICIP 2017. [[PDF](https://sci-hub.se/10.1109/ICIP.2017.8297020)]
 *[Gabriella Contardo](https://contardog.github.io/), Ludovic Denoyer, [Thierry Artieres](https://pageperso.lis-lab.fr/thierry.artieres/).*<br>
 Arxiv 2017. [[PDF](https://arxiv.org/pdf/1706.08334.pdf)]
 
+**Submodularity in data subset selection and active learning.**<br>
+*Kai Wei, [Rishabh Iyer](https://www.rishiyer.com/), [Jeff Bilmes](https://people.ece.uw.edu/bilmes/p/pgs/index.html).*<br>
+ICML 2015. [[PDF](http://proceedings.mlr.press/v37/wei15.pdf)]
+
 **A convex optimization framework for active learning.**<br>
 *[Ehsan Elhamifar](http://khoury.northeastern.edu/home/eelhami/), [Guillermo Sapiro](http://sapirolab.pratt.duke.edu/), [Allen Yang](https://people.eecs.berkeley.edu/~yang/), [S. Shankar Sasrty](https://people.eecs.berkeley.edu/~sastry/).*<br>
 ICCV 2013. [[PDF](https://openaccess.thecvf.com/content_iccv_2013/papers/Elhamifar_A_Convex_Optimization_2013_ICCV_paper.pdf)]
@@ -397,6 +404,47 @@ CVPR 2009. [[PDF](https://www.merl.com/publications/docs/TR2009-034.pdf)]
 **Active learning using pre-clustering.**<br>
 *Hieu T. Nguyen, Arnold Smeulders.*<br>
 ICML 2004. [[PDF](https://sci-hub.se/10.1145/1015330.1015349)]
+
+<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
+
+# Related Search
+
+**A survey on curriculum learning.**<br>
+*[Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/), Yudong Chen, Wenwu Zhu.*<br>
+TPAMI 2022. [[PDF](https://arxiv.org/pdf/2010.13166.pdf)]
+
+**A Survey on Active Deep Learning: From Model Driven to Data Driven.**<br>
+*Peng Liu, Lizhe Wang, [Rajiv Ranjan](https://rajivranjan.net/), Guojin He, Lei Zhao.*<br>
+ACM Comput. Surv. 2022. [[PDF](https://dl.acm.org/doi/abs/10.1145/3510414)]
+
+**Learning from noisy labels with deep neural networks: A survey.**<br>
+*[Hwanjun Song](https://songhwanjun.github.io/), [Minseok Kim](https://minseokkim.net/), [Dongmin Park](https://sites.google.com/view/dongmin-park/%ED%99%88), Yooju Shin, [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/).*<br>
+TNNLS 2022. [[PDF](https://arxiv.org/pdf/2007.08199.pdf)] [[Github](https://github.com/songhwanjun/Awesome-Noisy-Labels)]
+
+**A survey on bias in visual datasets.**<br>
+*Simone Fabbrizzi, [Symeon Papadopoulos](https://sites.google.com/site/sympapadopoulos/), [Eirini Ntoutsi](https://aiml-research.github.io/), [Ioannis Kompatsiaris](https://mklab.iti.gr/).*<br>
+CVIU 2022. [[PDF](https://arxiv.org/pdf/2107.07919.pdf)]
+
+**DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning.**<br>
+*Chengcheng Guo, Bo Zhao, Yanbing Bai.*<br>
+Arxiv 2022. [[PDF](https://arxiv.org/pdf/2204.08499.pdf)] [[Github](https://github.com/PatrickZH/DeepCore)]
+
+**Data Collection and Quality Challenges in Deep Learning: A Data-Centric AI Perspective.**<br>
+*[Steven Euijong Whang](https://sites.google.com/view/whanglab/di-lab), [Yuji Roh](https://www.yujiroh.com/), [Hwanjun Song](https://songhwanjun.github.io/), [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/).*<br>
+Arxiv 2021. [[PDF](https://arxiv.org/pdf/2112.06409.pdf)]
+
+**Deep long-tailed learning: A survey.**<br>
+*[Yifan Zhang](https://sites.google.com/view/yifan-zhang/%E9%A6%96%E9%A1%B5), Bingyi Kang, [Bryan Hooi](https://bhooi.github.io/), [Shuicheng Yan](https://yanshuicheng.ai/), [Jiashi Feng](https://sites.google.com/site/jshfeng/).*<br>
+Arxiv 2021. [[PDF](https://arxiv.org/pdf/2110.04596.pdf)] [[Github](https://github.com/Vanint/Awesome-LongTailed-Learning)]
+
+**A Survey on Deep Learning with Noisy Labels: How to train your model when you cannot trust on the annotations?.**<br>
+*Filipe R. Cordeiro, [Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/).*<br>
+SIBGRAPI 2020. [[PDF](https://arxiv.org/pdf/2012.03061.pdf)]
+
+**A review of instance selection methods.**<br>
+*[J. Arturo Olvera-López](http://www.cs.buap.mx/~aolvera/), [J. Ariel Carrasco-Ochoa](http://ccc.inaoep.mx/~ariel/), [J. Francisco Martínez-Trinidad](http://ccc.inaoep.mx/~fmartine/), Josef Kittler.*<br>
+Artif Intell Rev 2010. [[PDF](https://inaoe.repositorioinstitucional.mx/jspui/bitstream/1009/1389/1/165.-CC.pdf)]
+
 
 If you find this repo or our paper is helpful for your research, please consider to cite:
 
