@@ -332,7 +332,71 @@ ICML 2015. [[PDF](http://proceedings.mlr.press/v37/bachem15.pdf)]
 
 # Data Optimization for Label-efficient Learning
 
-Coming soon!
+### Active Learning
+
+**Low-Shot Validation: Active Importance Sampling for Estimating Classifier Performance on Rare Categories.**<br>
+*[Fait Poms](https://cs.stanford.edu/~fpoms/), Vishnu Sarukkai, Ravi Teja Mullapudi, Nimit S. Sohoni, [William R. Mark](http://www.billmark.com/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/), [Kayvon Fatahalian](http://graphics.stanford.edu/~kayvonf/).*<br>
+ICCV 2021. [[PDF]([https://ojs.aaai.org/index.php/AAAI/article/view/16988/16795](https://openaccess.thecvf.com/content/ICCV2021/papers/Poms_Low-Shot_Validation_Active_Importance_Sampling_for_Estimating_Classifier_Performance_on_ICCV_2021_paper.pdf))]
+
+**Glister: Generalization based data subset selection for efficient and robust learning.**<br>
+*[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), Durga Sivasubramanian, [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
+AAAI 2021. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16988/16795)] [[Github](https://github.com/dssresearch/GLISTER)] [[Project](https://cords.readthedocs.io/en/latest/strategies/cords.selection_strategies.SL.html#module-cords.selectionstrategies.SL.glisterstrategy)]
+
+**Deep batch active learning by diverse, uncertain gradient lower bounds.**<br>
+*[Jordan T. Ash](http://www.jordantash.com/), [Chicheng Zhang](https://zcc1307.github.io/), [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/), [John Langford](https://hunch.net/~jl/), [Alekh Agarwal](https://alekhagarwal.net/).*<br>
+ICLR 2020. [[PDF](https://arxiv.org/pdf/1906.03671.pdf)]
+
+**Single shot active learning using pseudo annotators.**<br>
+*Yazhou Yang, Marco Loog.*<br>
+Pattern Recognition 2019. [[PDF](https://arxiv.org/pdf/1805.06660.pdf)]
+
+**The power of ensembles for active learning in image classification.**<br>
+*William H. Beluch, [Tim Genewein](http://tim.inversetemperature.net/), [Andreas Nürnberger](https://www.dke.ovgu.de/en/), [Jan Mathias Köhler](https://enable-ai.de/).*<br>
+CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)]
+
+**Active learning for convolutional neural networks: A core-set approach.**<br>
+*[Ozan Sener](http://ozansener.net/), [Silvio Savarese](https://profiles.stanford.edu/silvio-savarese).*<br>
+ICLR 2018. [[PDF](https://arxiv.org/pdf/1708.00489.pdf),)]
+
+**Meta-learning for batch mode active learning.**<br>
+*[Sachin Ravi](https://sachinravi14.github.io/), [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/).*<br>
+ICLR Workshop 2018. [[PDF](https://openreview.net/pdf?id=r1PsGFJPz)]
+
+**Optimization as a model for few-shot learning.**<br>
+*[Sachin Ravi](https://sachinravi14.github.io/), [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/).*<br>
+ICLR 2017. [[PDF](https://openreview.net/pdf?id=rJY0-Kcll)] [[Github](https://github.com/twitter/meta-learning-lstm)]
+
+**Learning how to active learn: A deep reinforcement learning approach.**<br>
+*[Meng Fang](https://mengf1.github.io/), Yuan Li, [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/).*<br>
+EMNLP 2017. [[PDF](https://arxiv.org/pdf/1708.02383.pdf)] [[Github](https://github.com/mengf1/PAL)]
+
+**Deep active learning for image classification.**<br>
+*Hiranmayi Ranganathan, [Hemanth Venkateswara](https://www.hemanthdv.org/), [Shayok Chakraborty](http://shayokch.com/), Sethuraman Panchanathan.*<br>
+ICIP 2017. [[PDF](https://sci-hub.se/10.1109/ICIP.2017.8297020)]
+
+**A meta-learning approach to one-step active learning.**<br>
+*[Gabriella Contardo](https://contardog.github.io/), Ludovic Denoyer, [Thierry Artieres](https://pageperso.lis-lab.fr/thierry.artieres/).*<br>
+Arxiv 2017. [[PDF](https://arxiv.org/pdf/1706.08334.pdf)]
+
+**A convex optimization framework for active learning.**<br>
+*[Ehsan Elhamifar](http://khoury.northeastern.edu/home/eelhami/), [Guillermo Sapiro](http://sapirolab.pratt.duke.edu/), [Allen Yang](https://people.eecs.berkeley.edu/~yang/), [S. Shankar Sasrty](https://people.eecs.berkeley.edu/~sastry/).*<br>
+ICCV 2013. [[PDF](https://openaccess.thecvf.com/content_iccv_2013/papers/Elhamifar_A_Convex_Optimization_2013_ICCV_paper.pdf)]
+
+**Active instance sampling via matrix partition.**<br>
+*[Yuhong Guo](http://people.scs.carleton.ca/~yuhongguo/).*<br>
+NeurIPS 2010. [[PDF](https://proceedings.neurips.cc/paper/2010/file/f29c21d4897f78948b91f03172341b7b-Paper.pdf)]
+
+**Batch-mode active-learning methods for the interactive classification of remote sensing images.**<br>
+*[Begüm Demir](https://rsim.berlin/), [Claudio Persello](https://sites.google.com/site/cpersello), [Lorenzo Bruzzone](https://rslab.disi.unitn.it/).*<br>
+IEEE Trans Geosci Remote Sens 2010. [[PDF](http://eprints.biblio.unitn.it/1865/1/DISI-10-041.pdf)]
+
+**Multi-class active learning for image classification.**<br>
+*Ajay J. Joshi, [Fatih Porikli](https://www.porikli.com/), [Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/).*<br>
+CVPR 2009. [[PDF](https://www.merl.com/publications/docs/TR2009-034.pdf)]
+
+**Active learning using pre-clustering.**<br>
+*Hieu T. Nguyen, Arnold Smeulders.*<br>
+ICML 2004. [[PDF](https://sci-hub.se/10.1145/1015330.1015349)]
 
 If you find this repo or our paper is helpful for your research, please consider to cite:
 
