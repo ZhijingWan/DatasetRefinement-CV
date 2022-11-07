@@ -409,6 +409,22 @@ ICML 2004. [[PDF](https://sci-hub.se/10.1145/1015330.1015349)]
 
 # Related Search
 
+## Dataset distillation/condensation
+
+**Dataset distillation by matching training trajectories.**<br>
+*[George Cazenavette](https://georgecazenavette.github.io/), [Tongzhou Wang](https://www.tongzhouwang.info/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/).*<br>
+CVPR 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Cazenavette_Dataset_Distillation_by_Matching_Training_Trajectories_CVPRW_2022_paper.pdf)] [[Github](https://github.com/GeorgeCazenavette/mtt-distillation)] [[Project](https://georgecazenavette.github.io/mtt-distillation/)]
+
+**Dataset Condensation with Gradient Matching.**<br>
+*[Bo Zhao](https://bozhaonanjing.wixsite.com/mysite), [Konda Reddy Mopuri](https://krmopuri.github.io/), [Hakan Bilen](https://homepages.inf.ed.ac.uk/hbilen/).*<br>
+ICLR 2021. [[PDF](https://www.pure.ed.ac.uk/ws/files/202549394/main.pdf)]
+
+**Dataset distillation.**<br>
+*[Tongzhou Wang](https://www.tongzhouwang.info/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/).*<br>
+Arxiv 2018. [[PDF](https://arxiv.org/pdf/1811.10959.pdf)]
+
+## Other Surveys
+
 **A survey on curriculum learning.**<br>
 *[Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/), Yudong Chen, Wenwu Zhu.*<br>
 TPAMI 2022. [[PDF](https://arxiv.org/pdf/2010.13166.pdf)]
