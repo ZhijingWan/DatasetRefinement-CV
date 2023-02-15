@@ -407,7 +407,7 @@ ICML 2004. [[PDF](https://sci-hub.se/10.1145/1015330.1015349)]
 
 <p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
 
-# Related Search
+# Related Research
 
 ## Dataset distillation/condensation
 
