@@ -31,7 +31,7 @@ This repo is a collection of resources on data optimization for computer vision 
 - [Data Optimization for Fair Learning](#data-optimization-for-data-efficient-learning)
 - [Data Optimization for Data-efficient Learning](#data-optimization-for-label-efficient-learning)
 - [Data Optimization for Label-efficient Learning](#data-optimization-for-label-efficient-learning)
-- [Related Search](#related-search)
+- [Related Research](#related-research)
 
 </p></details><p></p>
 
