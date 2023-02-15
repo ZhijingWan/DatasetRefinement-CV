@@ -339,7 +339,7 @@ ICML 2015. [[PDF](http://proceedings.mlr.press/v37/bachem15.pdf)]
 
 **Low-Shot Validation: Active Importance Sampling for Estimating Classifier Performance on Rare Categories.**<br>
 *[Fait Poms](https://cs.stanford.edu/~fpoms/), Vishnu Sarukkai, Ravi Teja Mullapudi, Nimit S. Sohoni, [William R. Mark](http://www.billmark.com/), [Deva Ramanan](http://www.cs.cmu.edu/~deva/), [Kayvon Fatahalian](http://graphics.stanford.edu/~kayvonf/).*<br>
-ICCV 2021. [[PDF]([https://ojs.aaai.org/index.php/AAAI/article/view/16988/16795](https://openaccess.thecvf.com/content/ICCV2021/papers/Poms_Low-Shot_Validation_Active_Importance_Sampling_for_Estimating_Classifier_Performance_on_ICCV_2021_paper.pdf))]
+ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Poms_Low-Shot_Validation_Active_Importance_Sampling_for_Estimating_Classifier_Performance_on_ICCV_2021_paper.pdf)]
 
 **Glister: Generalization based data subset selection for efficient and robust learning.**<br>
 *[Krishnateja Killamsetty](https://krishnatejakillamsetty.me/), Durga Sivasubramanian, [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/), [Rishabh Iyer](https://www.rishiyer.com/).*<br>
@@ -359,7 +359,7 @@ CVPR 2018. [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_
 
 **Active learning for convolutional neural networks: A core-set approach.**<br>
 *[Ozan Sener](http://ozansener.net/), [Silvio Savarese](https://profiles.stanford.edu/silvio-savarese).*<br>
-ICLR 2018. [[PDF](https://arxiv.org/pdf/1708.00489.pdf),)]
+ICLR 2018. [[PDF](https://arxiv.org/pdf/1708.00489.pdf)]
 
 **Meta-learning for batch mode active learning.**<br>
 *[Sachin Ravi](https://sachinravi14.github.io/), [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/).*<br>
