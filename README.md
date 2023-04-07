@@ -91,6 +91,10 @@ TKDE 2019. [[PDF](https://sci-hub.se/10.1109/TKDE.2019.2951388)]
 
 ### Data Sampling
 
+**A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty.**<br>
+*Sihao Yu, [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/), [Ruqing Zhang](https://daqingchong.github.io/), [Yixing Fan](https://faneshion.github.io/), Zizhen Wang, Xueqi Cheng.*<br>
+CVPR2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_A_Re-Balancing_Strategy_for_Class-Imbalanced_Classification_Based_on_Instance_Difficulty_CVPR_2022_paper.pdf)]
+
 **Dualgraph: A graph-based method for reasoning about label noise.**<br>
 *HaiYang Zhang, XiMing Xing, Liang Liu.*<br>
 CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)]
@@ -116,6 +120,18 @@ TNNLS 2017. [[PDF](https://sci-hub.se/10.1109/TNNLS.2017.2699783)]
 NeurIPS 2010. [[PDF](https://proceedings.neurips.cc/paper/2010/file/e57c6b956a6521b28495f2886ca0977a-Paper.pdf)]
 
 ### Subset Selection
+
+**Mutual Quantization for Cross-Modal Search with Noisy Labels.**<br>
+*[Erkun Yang](https://faculty.xidian.edu.cn/YangErkun/zh_CN/index/434064/list/index.htm), [Dongren Yao](https://xs2.studiodahu.com/citations?user=_9IuBg8AAAAJ&hl=zh-CN&oi=sra), [Tongliang Liu](https://tongliang-liu.github.io/), [Cheng Deng](https://see.xidian.edu.cn/faculty/chdeng/).*<br>
+CVPR22. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Mutual_Quantization_for_Cross-Modal_Search_With_Noisy_Labels_CVPR_2022_paper.pdf)]
+
+**Unicon: Combating label noise through uniform selection and contrastive learning.**<br>
+*[Nazmul Karim](https://mdnazmulkarim.com/), [Mamshad Nayeem Rizve](https://nayeemrizve.github.io/), [Nazanin Rahnavard](https://lcwnlab.eecs.ucf.edu/), [Ajmal Mian](https://ajmalsaeed.net/), [Mubarak Shah](https://www.crcv.ucf.edu/).*<br>
+CVPR2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Karim_UniCon_Combating_Label_Noise_Through_Uniform_Selection_and_Contrastive_Learning_CVPR_2022_paper.pdf)] [[Github](https://github.com/nazmul-karim170/UNICON-Noisy-Label)]
+
+**Is your data relevant?: Dynamic selection of relevant data for federated learning.**<br>
+*[Lokesh Nagalapatti](https://nlokesh.netlify.app/), Ruhi Sharma Mittal, [Ramasuri Narayanam](https://research.adobe.com/person/ramasuri-narayanam/).*<br>
+AAAI 2022. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20755/20514)]
 
 **NGC: a unified framework for learning with open-world noisy data.**<br>
 *Zhi-Fan Wu, [Tong Wei](http://www.lamda.nju.edu.cn/weit/?AspxAutoDetectCookieSupport=1), Jianwen Jiang, Chaojie Mao, Mingqian Tang, Yu-Feng Li.*<br>
