@@ -1,22 +1,22 @@
-# DataOptimization-CV
+# DatasetRefinement-CV
 
 <br />
 <p align="left">
     <a href='https://arxiv.org/pdf/2210.11717.pdf'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
-    <a href='https://github.com/Vivian-wzj/DataOptimization-CV' style='padding-left: 0.5rem;'>
+    <a href='https://github.com/Vivian-wzj/DatasetRefinement-CV' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
     </a>
 </p>
 <br />
 
-This repo is a collection of resources on data optimization for computer vision (CV), as a supplement for our [survey](https://arxiv.org/abs/2210.11717). If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/Vivian-wzj/DataOptimization-CV/pulls).
+This repo is a collection of resources on dataset refinement for computer vision (CV), as a supplement for our [survey](https://arxiv.org/abs/2210.11717). If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/Vivian-wzj/DatasetRefinement-CV/pulls).
 
 <details style="margin-left:3%;">
   <summary>citation</summary>
   <pre><code class="language-bib" style="font-size: 0.9rem;" id="citation">@article{wan2022survey,
-  title={A Survey of Data Optimization for Problems in Computer Vision Datasets},
+  title={A Survey of Dataset Refinement for Problems in Computer Vision Datasets},
   author={Wan, Zhijing and Wang, Zhixiang and Chung, CheukTing and Wang, Zheng},
   journal={arXiv preprint arXiv:2210.11717},
   year={2022}
@@ -27,10 +27,10 @@ This repo is a collection of resources on data optimization for computer vision 
 <details><summary>Table of Contents</summary><p>
 
 - [News](#news)
-- [Data Optimization for Robust Learning](#data-optimization-for-robust-learning)
-- [Data Optimization for Fair Learning](#data-optimization-for-data-efficient-learning)
-- [Data Optimization for Data-efficient Learning](#data-optimization-for-label-efficient-learning)
-- [Data Optimization for Label-efficient Learning](#data-optimization-for-label-efficient-learning)
+- [Dataset Refinement for Robust Learning](#dataset-refinement-for-robust-learning)
+- [Dataset Refinement for Fair Learning](#dataset-refinement-for-data-efficient-learning)
+- [Dataset Refinement for Data-efficient Learning](#dataset-refinement-for-label-efficient-learning)
+- [Dataset Refinement for Label-efficient Learning](#dataset-refinement-for-label-efficient-learning)
 - [Related Research](#related-research)
 
 </p></details><p></p>
@@ -38,9 +38,9 @@ This repo is a collection of resources on data optimization for computer vision 
 # News :tada:
 [2023/09/26] Our survey is accepted to ACM Computing Surveys! (:laughing:)
 
-[2022/10/14] We have submitted our Data-Optimization-for-Computer-Vision survey on arXiv: [A Survey of Data Optimization for Problems in Computer Vision Datasets](https://arxiv.org/abs/2210.11717).(:satisfied:) We will continue to polish this work.(:muscle:)
+[2022/10/14] We have submitted our Dataset-Refinement-for-Computer-Vision survey on arXiv: [A Survey of Dataset Refinement for Problems in Computer Vision Datasets](https://arxiv.org/abs/2210.11717).(:satisfied:) We will continue to polish this work.(:muscle:)
 
-# Data Optimization for Robust Learning
+# Dataset Refinement for Robust Learning
 
 ## On the Class-imbalanced Dataset
 
@@ -214,9 +214,9 @@ Arxiv 2017. [[PDF](https://arxiv.org/pdf/1705.01936.pdf)] [[Github](https://gith
 *Yazhou Yao, Xian-sheng Hua, [Fumin Shen](https://cfm.uestc.edu.cn/~fshen/), [Jian Zhang](https://profiles.uts.edu.au/Jian.Zhang), Zhenmin Tang.*<br>
 ACM MM 2016. [[PDF](https://kd.nsfc.gov.cn/paperDownload/ZD4242585.pdf)]
 
-<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
+<p width="100%" align="right"><a href="#datasetrefinement-cv">🔝</a></p>
 
-# Data Optimization for Fair Learning
+# Dataset Refinement for Fair Learning
 
 ### Subset Selection
 
@@ -232,9 +232,9 @@ CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_REPA
 *Yingwei Li, [Yi Li](http://www.svcl.ucsd.edu/people/yili/), [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).*<br>
 ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yingwei_Li_RESOUND_Towards_Action_ECCV_2018_paper.pdf)]
 
-<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
+<p width="100%" align="right"><a href="#datasetrefinement-cv">🔝</a></p>
 
-# Data Optimization for Data-efficient Learning
+# Dataset Refinement for Data-efficient Learning
 
 ### Data Sampling
 
@@ -348,9 +348,9 @@ CVPR 2016. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/pap
 *[Olivier Bachem](http://olivierbachem.ch/), [Mario Lucic](https://lucic.ai/), [Andreas Krause](https://las.inf.ethz.ch/krausea).*<br>
 ICML 2015. [[PDF](http://proceedings.mlr.press/v37/bachem15.pdf)]
 
-<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
+<p width="100%" align="right"><a href="#datasetrefinement-cv">🔝</a></p>
 
-# Data Optimization for Label-efficient Learning
+# Dataset Refinement for Label-efficient Learning
 
 ### Active Learning
 
@@ -422,7 +422,7 @@ CVPR 2009. [[PDF](https://www.merl.com/publications/docs/TR2009-034.pdf)]
 *Hieu T. Nguyen, Arnold Smeulders.*<br>
 ICML 2004. [[PDF](https://sci-hub.se/10.1145/1015330.1015349)]
 
-<p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
+<p width="100%" align="right"><a href="#datasetrefinement-cv">🔝</a></p>
 
 # Related Research
 
