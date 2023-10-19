@@ -15,11 +15,18 @@ This repo is a collection of resources on dataset refinement for computer vision
 
 <details style="margin-left:3%;">
   <summary>citation</summary>
-  <pre><code class="language-bib" style="font-size: 0.9rem;" id="citation">@article{wan2022survey,
-  title={A Survey of Dataset Refinement for Problems in Computer Vision Datasets},
-  author={Wan, Zhijing and Wang, Zhixiang and Chung, CheukTing and Wang, Zheng},
-  journal={arXiv preprint arXiv:2210.11717},
-  year={2022}
+  <pre><code class="language-bib" style="font-size: 0.9rem;" id="citation">@article{wan2023survey,
+author = {Wan, Zhijing and Wang, Zhixiang and Chung, CheukTing and Wang, Zheng},
+title = {A Survey of Dataset Refinement for Problems in Computer Vision Datasets},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3627157},
+doi = {10.1145/3627157},
+note = {Just Accepted},
+journal = {ACM Comput. Surv.},
+month = {oct}
 }
 </code></pre>
 </details> 
@@ -482,11 +489,18 @@ Artif Intell Rev 2010. [[PDF](https://inaoe.repositorioinstitucional.mx/jspui/bi
 If you find this repo or our paper is helpful for your research, please consider to cite:
 
 ```bibtex
-@article{wan2022survey,
-  title={A Survey of Data Optimization for Problems in Computer Vision Datasets},
-  author={Wan, Zhijing and Wang, Zhixiang and Chung, CheukTing and Wang, Zheng},
-  journal={arXiv preprint arXiv:2210.11717},
-  year={2022}
+@article{wan2023survey,
+author = {Wan, Zhijing and Wang, Zhixiang and Chung, CheukTing and Wang, Zheng},
+title = {A Survey of Dataset Refinement for Problems in Computer Vision Datasets},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3627157},
+doi = {10.1145/3627157},
+note = {Just Accepted},
+journal = {ACM Comput. Surv.},
+month = {oct}
 }
 ```
 <p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
