@@ -36,7 +36,7 @@ This repo is a collection of resources on dataset refinement for computer vision
 </p></details><p></p>
 
 # News :tada:
-[2023/09/26] Our survey is accepted to ACM Computing Surveys! (:laughing:)
+[2023/09/26] [Our survey](https://dl.acm.org/doi/abs/10.1145/3627157) is accepted to ACM Computing Surveys! (:laughing:)
 
 [2022/10/14] We have submitted our Dataset-Refinement-for-Computer-Vision survey on arXiv: [A Survey of Dataset Refinement for Problems in Computer Vision Datasets](https://arxiv.org/abs/2210.11717).(:satisfied:) We will continue to polish this work.(:muscle:)
 
