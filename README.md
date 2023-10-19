@@ -24,7 +24,6 @@ address = {New York, NY, USA},
 issn = {0360-0300},
 url = {https://doi.org/10.1145/3627157},
 doi = {10.1145/3627157},
-note = {Just Accepted},
 journal = {ACM Comput. Surv.},
 month = {oct}
 }
@@ -498,7 +497,6 @@ address = {New York, NY, USA},
 issn = {0360-0300},
 url = {https://doi.org/10.1145/3627157},
 doi = {10.1145/3627157},
-note = {Just Accepted},
 journal = {ACM Comput. Surv.},
 month = {oct}
 }
