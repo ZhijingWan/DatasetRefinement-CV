@@ -274,6 +274,10 @@ Arxiv 2014. [[PDF](https://arxiv.org/pdf/1405.3080.pdf)]
 
 ### Subset Selection
 
+**Contributing dimension structure of deep feature for coreset selection.**<br>
+*[Zhijing Wan](https://scholar.google.com.pk/citations?user=eClFXFEAAAAJ&hl=zh-CN&oi=ao), [Zhixiang Wang](https://scholar.google.com.pk/citations?user=yybzbxMAAAAJ&hl=zh-CN), [Yuran Wang](https://scholar.google.com.pk/citations?user=ZGq8cbIAAAAJ&hl=zh-CN&oi=sra), [Zheng Wang](https://scholar.google.com.pk/citations?user=-WHTbpUAAAAJ&hl=zh-CN&oi=sra), [Hongyuan Zhu](https://hongyuanzhu.github.io/), [Shin'ichi Satoh](https://scholar.google.com.pk/citations?user=7aEF5cQAAAAJ&hl=zh-CN).*<br>
+AAAI 2024. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28758)] [[Github](https://github.com/ZhijingWan/contributing-dimension-structure)]
+
 **Adaptive second order coresets for data-efficient machine learning.**<br>
 *Omead Pooladzandi, David Davini, [Baharan Mirzasoleiman](http://web.cs.ucla.edu/~baharan/).*<br>
 ICML 2022. [[PDF](https://proceedings.mlr.press/v162/pooladzandi22a/pooladzandi22a.pdf)] [[Github](https://github.com/opooladz/AdaCore)]
@@ -430,7 +434,7 @@ ICML 2004. [[PDF](https://sci-hub.se/10.1145/1015330.1015349)]
 
 <p width="100%" align="right"><a href="#datasetrefinement-cv">🔝</a></p>
 
-# Related Research
+# Related Research or Github
 
 ## Dataset distillation/condensation
 
@@ -446,7 +450,13 @@ ICLR 2021. [[PDF](https://www.pure.ed.ac.uk/ws/files/202549394/main.pdf)]
 *[Tongzhou Wang](https://www.tongzhouwang.info/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/).*<br>
 Arxiv 2018. [[PDF](https://arxiv.org/pdf/1811.10959.pdf)]
 
+For the latest updates, we recommend checking Github: [Awesome Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)
+
 ## Other Surveys
+
+**A Coreset Selection of Coreset Selection Literature: Introduction and Recent Advances.**<br>
+*[Brian B. Moser](https://scholar.google.com.pk/citations?user=v6hF0VEAAAAJ&hl=zh-CN&oi=sra), [Arundhati S. Shanbhag](https://scholar.google.com.pk/citations?user=g3lGVfYAAAAJ&hl=zh-CN&oi=sra), [Stanislav Frolov](https://scholar.google.com.pk/citations?user=ZQbmL4wAAAAJ&hl=zh-CN&oi=sra), [Federico Raue](https://scholar.google.com.pk/citations?user=Jx9-sU0AAAAJ&hl=zh-CN&oi=sra), Joachim Folz, Andreas Dengel.*<br>
+arxiv 2025. [[PDF](https://arxiv.org/pdf/2505.17799)]
 
 **A survey on curriculum learning.**<br>
 *[Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/), Yudong Chen, Wenwu Zhu.*<br>
