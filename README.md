@@ -498,17 +498,20 @@ Artif Intell Rev 2010. [[PDF](https://inaoe.repositorioinstitucional.mx/jspui/bi
 If you find this repo or our paper is helpful for your research, please consider to cite:
 
 ```bibtex
-@article{wan2023survey,
-author = {Wan, Zhijing and Wang, Zhixiang and Chung, CheukTing and Wang, Zheng},
+@article{wan2024survey,
+author = {Wan, Zhijing and Wang, Zhixiang and Chung, Cheukting and Wang, Zheng},
 title = {A Survey of Dataset Refinement for Problems in Computer Vision Datasets},
-year = {2023},
+year = {2024},
+issue_date = {July 2024},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
+volume = {56},
+number = {7},
 issn = {0360-0300},
 url = {https://doi.org/10.1145/3627157},
 doi = {10.1145/3627157},
 journal = {ACM Comput. Surv.},
-month = {oct}
+month = apr
 }
 ```
 <p width="100%" align="right"><a href="#dataoptimization-cv">🔝</a></p>
